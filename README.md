@@ -1,5 +1,5 @@
 # Advent of Code 2024
-1. [ ]
+1. [x] Written in Python
 2. [ ]
 3. [ ]
 4. [ ]
